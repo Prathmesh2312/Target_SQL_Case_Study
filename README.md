@@ -1,2 +1,2 @@
 # Target_SQL_Case_Study
-Case Study on Target
+Done my first SQL base case study on the real industry data of Target
